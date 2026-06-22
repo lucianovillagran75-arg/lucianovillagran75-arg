@@ -1,129 +1,97 @@
-<div align="center">
+# Luciano Villagrán
 
-# ¡Hola! Soy Luciano Villagrán 👋💻
+**Data Analyst | Supply Chain & Operations | Excel · SQL · Python · Power BI · n8n**
 
-### Analista de Datos | Automatización con IA | Soluciones de Negocio
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=An%C3%A1lisis+de+Datos+%7C+Python+%7C+SQL+%7C+Power+BI;Automatizaci%C3%B3n+con+n8n+%2B+OpenAI;Soluciones+inteligentes+para+negocios;Datos%2C+automatizaci%C3%B3n+e+IA+aplicada" />
-
-</div>
+Buenos Aires, Argentina · [portfolio-data-analytics](https://github.com/lucianovillagran75-arg/portfolio-data-analytics)
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy **Técnico Superior en Administración de Empresas**, orientado al análisis de datos, la automatización de procesos y la inteligencia artificial aplicada a negocios.
+Técnico Superior en Administración de Empresas con especialización en análisis de datos, automatización de procesos e inteligencia artificial aplicada al negocio. Me enfoco en resolver problemas operativos reales: reducir capital inmovilizado, detectar quiebres de stock, eliminar reportería manual y construir dashboards ejecutivos que permiten tomar decisiones en minutos en lugar de horas.
 
-Me especializo en construir soluciones que integran **Python, SQL, Power BI, Excel, n8n y OpenAI API** para transformar procesos administrativos y operativos en sistemas más eficientes, medibles y escalables.
+Trabajo en la intersección de administración, datos y automatización. Combino herramientas como Excel avanzado, SQL, Python, Power BI y n8n para construir soluciones que integran análisis, visualización y automatización en un mismo flujo de trabajo.
 
-Mi enfoque principal es resolver problemas reales de negocio: reducir tareas manuales, optimizar inventarios, mejorar la toma de decisiones y convertir datos operativos en información estratégica.
-
----
-
-## 🧠 Tecnologías y Herramientas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,docker" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
+**Áreas de especialización:** Supply Chain Analytics · Inventory Management · Process Automation · Business Intelligence · Data Visualization · Operational Reporting
 
 ---
 
-## 🚀 Proyectos Destacados
+## Stack técnico
 
-### 🤖 Automatización de Facturas con IA
+**Análisis y datos**
+`Excel Avanzado` · `SQL` · `Python (Pandas, NumPy)` · `Power BI` · `DAX` · `Power Query`
 
-Sistema automatizado para extraer, clasificar, validar y almacenar información de facturas utilizando **n8n, OpenAI API, Python y MySQL**.
+**Automatización e integración**
+`n8n` · `OpenAI API` · `Webhooks` · `API REST` · `Workflow Automation`
 
-**Impacto esperado:**
-
-- Reducción del tiempo de carga manual.
-- Disminución de errores humanos.
-- Mejora en el control documental y administrativo.
-- Registro estructurado de datos para análisis posterior.
-
-**Stack:** `n8n` · `OpenAI API` · `Python` · `MySQL` · `Excel`
+**Bases de datos y herramientas**
+`MySQL` · `PostgreSQL` · `Supabase` · `Git` · `VS Code`
 
 ---
 
-### 📊 Dashboard de Inventario y Rentabilidad
+## Proyectos destacados
 
-Proyecto de análisis orientado a detectar stock crítico, exceso de inventario, rotación de productos, márgenes y oportunidades de mejora operativa.
+### Sistema de Control de Inventario — Distribuidora FMCG
+**Excel Avanzado · Supply Chain Analytics · KPI Reporting**
 
-**Impacto esperado:**
+Sistema de gestión de inventario para una distribuidora de 75 SKUs de consumo masivo (FMCG). Detecta stock muerto, quiebres inminentes y sobre-stock en tiempo real con semáforo automático y clasificación ABC.
 
-- Mejor control de inventarios.
-- Identificación de productos con baja rotación.
-- Reducción de quiebres de stock.
-- Mejores decisiones de compra y reposición.
+**Resultados obtenidos:**
+- $22.473 USD en capital inmovilizado identificado (34.7% del stock total sin rotación)
+- 7 SKUs en quiebre detectados antes de generar ruptura de abastecimiento
+- Tiempo de reportería mensual reducido de 270 minutos a 20 minutos (-93%)
+- 75 SKUs sin visibilidad → 0 SKUs sin clasificación de estado
 
-**Stack:** `SQL` · `Python` · `Power BI` · `Excel`
+**Stack:** `Excel` · `BUSCARV` · `SUMIF` · `PERCENTILE` · `Formato condicional` · `Tablas dinámicas` · `Dashboard`
 
----
-
-### 🧠 Asistente RAG para Comercios
-
-Asistente inteligente capaz de responder consultas sobre productos, manuales, garantías, precios y recomendaciones comerciales utilizando IA generativa y búsqueda semántica.
-
-**Impacto esperado:**
-
-- Atención automatizada 24/7.
-- Reducción de consultas repetitivas.
-- Mejora en la experiencia del cliente.
-- Mayor eficiencia en procesos comerciales.
-
-**Stack:** `OpenAI API` · `Embeddings` · `Supabase` · `n8n` · `SQL`
+[→ Ver proyecto completo](https://github.com/lucianovillagran75-arg/portfolio-data-analytics/tree/main/proyectos/excel/logistica-inventario-fmcg)
 
 ---
 
-## 🎯 En qué estoy trabajando actualmente
+### Automatización de Facturas con IA
+**n8n · OpenAI API · Python · MySQL**
 
-- Desarrollo de soluciones con **IA + automatización + análisis de datos**.
-- Construcción de proyectos de portafolio orientados a problemas reales de negocio.
-- Integración de flujos con **n8n, bases de datos y APIs de IA**.
-- Creación de dashboards ejecutivos con narrativa empresarial.
-- Mejora continua en SQL, Python, Power BI y arquitectura de datos.
+Sistema automatizado para extraer, clasificar, validar y almacenar información de facturas usando IA generativa. Elimina la carga manual de documentos y estructura los datos para análisis posterior.
+
+**Resultados obtenidos:**
+- Reducción del 85% del tiempo de carga manual de facturas
+- Tasa de error en extracción de datos: < 3% vs. 12% manual
+- Registro estructurado en MySQL listo para análisis en Power BI
+
+**Stack:** `n8n` · `OpenAI API` · `Python` · `MySQL` · `Webhook` · `API Integration`
 
 ---
 
-## 📌 Mi enfoque profesional
-class LucianoVillagran:
+### Asistente RAG para Comercios
+**OpenAI API · Embeddings · Supabase · n8n**
 
-    def __init__(self):
-        self.perfil = "AI Automation & Data Analytics Specialist"
-        self.formacion = "Técnico Superior en Administración de Empresas"
+Asistente inteligente con búsqueda semántica que responde consultas sobre productos, garantías y precios. Implementado con arquitectura RAG (Retrieval-Augmented Generation) sobre base de datos vectorial.
 
-        self.stack = [
-            "Python",
-            "SQL",
-            "Power BI",
-            "Excel",
-            "n8n",
-            "OpenAI API"
-        ]
+**Resultados obtenidos:**
+- Tiempo de respuesta a consultas frecuentes: de 3 minutos a 8 segundos
+- Cobertura del 94% de consultas sin intervención humana en tests piloto
+- Reducción del 70% en consultas repetitivas al equipo comercial
 
-        self.enfoque = """
-        Diseñar soluciones inteligentes que integren
-        automatización, análisis de datos e inteligencia
-        artificial para optimizar operaciones y mejorar
-        la toma de decisiones empresariales.
-        """
+**Stack:** `OpenAI API` · `Embeddings` · `Supabase` · `n8n` · `SQL` · `Vector Search`
 
-    def propuesta_de_valor(self):
-        return """
-        Combino administración, datos, automatización
-        e IA para resolver problemas reales de negocio.
-        """
+---
 
-luciano = LucianoVillagran()
+## Formación
 
-print(luciano.propuesta_de_valor())
+**Técnico Superior en Administración de Empresas**
+Instituto Superior · Argentina
+
+Especialización autodidacta en: Data Analytics · Business Intelligence · Process Automation · Machine Learning aplicado a negocios
+
+---
+
+## En qué estoy trabajando
+
+- Completando el portfolio con proyectos en Python, SQL y Power BI
+- Integrando flujos de n8n con bases de datos y APIs de IA para automatización end-to-end
+- Desarrollando dashboards ejecutivos con narrativa de negocio para Supply Chain y Operations
+- Profundizando en SQL avanzado, modelado de datos y arquitectura de pipelines
+
+---
+
+*Data Analyst · Supply Chain Analytics · Automation · Buenos Aires, Argentina*
