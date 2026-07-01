@@ -1,6 +1,6 @@
 # Luciano Villagrán
 
-**Data Analyst | Supply Chain & Operations | Excel · SQL · Python · Power BI · n8n**
+**Data Analyst | Excel · SQL · Python · Power BI · n8n**
 
 Buenos Aires, Argentina · [portfolio-data-analytics](https://github.com/lucianovillagran75-arg/portfolio-data-analytics)
 
@@ -94,4 +94,4 @@ Especialización autodidacta en: Data Analytics · Business Intelligence · Proc
 
 ---
 
-*Data Analyst · Supply Chain Analytics · Automation · Buenos Aires, Argentina*
+*Data Analyst · Automation · tucuman, Argentina*
